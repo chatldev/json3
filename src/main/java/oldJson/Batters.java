@@ -1,3 +1,5 @@
+package oldJson;
+
 import java.util.List;
 
 public class Batters {
@@ -13,7 +15,7 @@ public class Batters {
 
     @Override
     public String toString() {
-        return "Batters{" +
+        return "oldJson.Batters{" +
                 "batter=" + batter +
                 '}';
     }

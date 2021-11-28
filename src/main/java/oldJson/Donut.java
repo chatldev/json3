@@ -1,3 +1,5 @@
+package oldJson;
+
 import java.util.List;
 
 public class Donut {
@@ -58,7 +60,7 @@ public class Donut {
 
     @Override
     public String toString() {
-        return "Donut{" +
+        return "oldJson.Donut{" +
                 "id='" + id + '\'' +
                 ", type='" + type + '\'' +
                 ", name='" + name + '\'' +

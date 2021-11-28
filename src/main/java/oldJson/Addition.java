@@ -1,3 +1,5 @@
+package oldJson;
+
 public class Addition {
     private String id;
     private String type;
@@ -20,7 +22,7 @@ public class Addition {
 
     @Override
     public String toString() {
-        return "Addition{" +
+        return "oldJson.Addition{" +
                 "id='" + id + '\'' +
                 ", type='" + type + '\'' +
                 '}';
